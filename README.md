@@ -6,14 +6,20 @@
 
 刮刮卡vue组件，可在PC或移动端使用。
 
-## 截图
+### 原作者地址
+[原作者地址](https://github.com/ZENGzoe/vue-scratch-card '原作者地址')
+
+## github
+[github地址](https://github.com/pzuopin/vue-scratch-card-pin 'github地址')
 
 
 ## Install
 
 ```
-npm install --save ue-scratch-card-pin
+npm install --save vue-scratch-card-pin
 ```
+
+本人学习使用
 
 ## Usage
 
